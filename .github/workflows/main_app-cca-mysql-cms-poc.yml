@@ -63,4 +63,4 @@ jobs:
           app-name: 'app-cca-mysql-cms-poc'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E7CD0D8AD4D2457F8808646283CF61C6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01189F6AB47C49FB9CDEC6004E91FE5B }}
